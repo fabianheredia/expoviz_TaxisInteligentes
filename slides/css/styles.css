@@ -7,7 +7,7 @@
     font-style: italic;
 }
 .github{
-    background-image: url(../../assets/github.png);
+    background-image: url(../assets/github.png);
     padding-left: 40px !important;
     background-repeat: no-repeat;
     background-position-y: center;
@@ -17,7 +17,7 @@
     margin-right: 30px !important;
 }
 .twitter{
-    background-image: url(../../assets/twitter.png);
+    background-image: url(../assets/twitter.png);
     padding-left: 35px !important;
     background-repeat: no-repeat;
     background-position-y: center;
